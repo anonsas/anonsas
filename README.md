@@ -12,8 +12,8 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=git)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=git)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
